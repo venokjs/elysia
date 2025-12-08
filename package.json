@@ -1,0 +1,19 @@
+{
+  "name": "@venok/elysia",
+  "module": "src/index.ts",
+  "type": "module",
+  "author": "Shiz Ceo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@venok/core": "^2.0.0",
+    "@venok/http": "^2.0.0",
+    "@venok/integration": "^2.0.0",
+    "elysia": "^1.4.18"
+  }
+}
