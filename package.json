@@ -9,9 +9,9 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@venok/core": "^2.0.1-next.1",
-    "@venok/http": "^2.0.1-next.1",
-    "@venok/integration": "^2.0.1-next.1",
+    "@venok/core": "^2.0.1-next.2",
+    "@venok/http": "^2.0.1-next.2",
+    "@venok/integration": "^2.0.1-next.2",
     "elysia": "^1.4.18"
   },
   "devDependencies": {

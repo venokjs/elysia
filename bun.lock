@@ -4,9 +4,9 @@
     "": {
       "name": "elysia",
       "dependencies": {
-        "@venok/core": "^2.0.1-next.1",
-        "@venok/http": "^2.0.1-next.1",
-        "@venok/integration": "^2.0.1-next.1",
+        "@venok/core": "^2.0.1-next.2",
+        "@venok/http": "^2.0.1-next.2",
+        "@venok/integration": "^2.0.1-next.2",
         "elysia": "^1.4.18",
       },
       "devDependencies": {
@@ -93,11 +93,11 @@
 
     "@typescript-eslint/visitor-keys": ["@typescript-eslint/visitor-keys@8.49.0", "", { "dependencies": { "@typescript-eslint/types": "8.49.0", "eslint-visitor-keys": "^4.2.1" } }, "sha512-LlKaciDe3GmZFphXIc79THF/YYBugZ7FS1pO581E/edlVVNbZKDy93evqmrfQ9/Y4uN0vVhX4iuchq26mK/iiA=="],
 
-    "@venok/core": ["@venok/core@2.0.1-next.1", "", { "dependencies": { "fast-safe-stringify": "^2.1.1" }, "peerDependencies": { "reflect-metadata": "^0.2.2", "rxjs": "^7.8.1", "uid": "^2.0.2", "uuid": "^13.0.0" } }, "sha512-9r51PqOrWB1KO1UjXSoW/qkWUqB2WAJbv3ThSLrUKwWZrKZzTbMiAPWeRdIBpGRWfbaYOmttyBuYV8+n4sS6EA=="],
+    "@venok/core": ["@venok/core@2.0.1-next.2", "", { "dependencies": { "fast-safe-stringify": "^2.1.1" }, "peerDependencies": { "reflect-metadata": "^0.2.2", "rxjs": "^7.8.1", "uid": "^2.0.2", "uuid": "^13.0.0" } }, "sha512-prFWnGtSVX5nXXBDjR6vKIkBzIIkMQPSF0PpNcgr7Q5gl31QCZDFwwJoct3q5eQvtIcZsMP3+qhluUPoZG11Yw=="],
 
-    "@venok/http": ["@venok/http@2.0.1-next.1", "", { "dependencies": { "path-to-regexp": "^6.2.1" }, "peerDependencies": { "@venok/core": "1.1.0", "@venok/integration": "1.1.0", "reflect-metadata": "^0.2.2", "rxjs": "^7.8.1" } }, "sha512-pgXzHE5LjZ2kNrpY38igRko+d72DeL4yAEJgrsvxcoUzWlV4JFDFnukrlAJUAaFFSheDyRO7fw39UBDDGTblQw=="],
+    "@venok/http": ["@venok/http@2.0.1-next.2", "", { "dependencies": { "path-to-regexp": "^6.2.1" }, "peerDependencies": { "@venok/core": "1.1.0", "@venok/integration": "1.1.0", "reflect-metadata": "^0.2.2", "rxjs": "^7.8.1" } }, "sha512-VPKh4AJz1eOU8tQFfVN8f509PZcEG5utpcREM6+p8oYepGc3I7M4vsPs3MKpmR6ZQCF3jEmF8GzSS3A9MbW2TQ=="],
 
-    "@venok/integration": ["@venok/integration@2.0.1-next.1", "", { "peerDependencies": { "@venok/core": "1.1.0", "reflect-metadata": "^0.2.2", "rxjs": "^7.8.1", "uuid": "^13.0.0" } }, "sha512-VCHyA2sTdtr4UurK0dRJIazoYHvQjg4VlCHTcfOs1ACREq5vgn/R5bYH3FHnm49D8cQmk0HBBpbVhSAzbCue8Q=="],
+    "@venok/integration": ["@venok/integration@2.0.1-next.2", "", { "peerDependencies": { "@venok/core": "1.1.0", "reflect-metadata": "^0.2.2", "rxjs": "^7.8.1", "uuid": "^13.0.0" } }, "sha512-eBj3bTPnlWLHBMKlvwJOaDRUrSBpt1Y7tUNv+c0eRP90p40iBU4OD2sqcZy51U9YSkpaT4FMsx6+7WJoYaEJ4A=="],
 
     "acorn": ["acorn@8.15.0", "", { "bin": { "acorn": "bin/acorn" } }, "sha512-NZyJarBfL7nWwIq+FDL6Zp/yHEhePMNnnJ0y3qfieCrmNvYct8uvtiV41UvlSe6apAfk0fY1FbWx+NwfmpvtTg=="],
 
